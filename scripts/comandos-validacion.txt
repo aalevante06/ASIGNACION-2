@@ -1,0 +1,21 @@
+# Comandos de validación utilizados
+
+show running-config
+show privilege
+show users
+show ip ssh
+show logging
+show aaa servers
+show ip interface brief
+
+ping 10.21.74.10
+
+# Verificación del switch
+show running-config | section aaa
+show running-config | include radius
+show running-config | section line
+
+# Verificación del router
+show running-config | section aaa
+show running-config | include radius
+show running-config | section line
