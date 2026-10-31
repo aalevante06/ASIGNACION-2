@@ -1,6 +1,6 @@
 # Asignación #2 — AAA, RADIUS, Active Directory y NPS
 
-> **Video de demostración:** [🎥 Ver video](PENDIENTE-URL-DEL-VIDEO)
+> **Video de demostración:** [🎥 Ver video](https://youtu.be/1wH4d278C8E)
 
 **Asignatura:** Seguridad de Redes  
 **Estudiante:** Luis Ariel Alevante Agramonte  
